@@ -1,0 +1,15 @@
+{
+  "name": "libsass-bug",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexey Zorkaltsev (alexey@zorkaltsev.com)",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-sass": "^2.1.0",
+    "susy": "^2.2.6"
+  }
+}
